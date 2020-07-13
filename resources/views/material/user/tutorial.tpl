@@ -78,12 +78,12 @@ Tab 负责控制 SSR / SS / V2Ray 的容器的切换。Tab 条目位于 ul.nav.n
                             <div class="card-inner">
                                 <nav class="tab-nav margin-top-no">
                                     <ul class="nav nav-list">
-                                        <li class="active">
-                                            <a class="" data-toggle="tab" href="#tutorial_ssr"><i class="icon icon-lg">airplanemode_active</i>&nbsp;SSR</a>
-                                        </li>
-                                        <li>
-                                            <a class="" data-toggle="tab" href="#tutorial_ss"><i class="icon icon-lg">flight_takeoff</i>&nbsp;SS/SSD</a>
-                                        </li>
+{*                                        <li class="active">*}
+{*                                            <a class="" data-toggle="tab" href="#tutorial_ssr"><i class="icon icon-lg">airplanemode_active</i>&nbsp;SSR</a>*}
+{*                                        </li>*}
+{*                                        <li>*}
+{*                                            <a class="" data-toggle="tab" href="#tutorial_ss"><i class="icon icon-lg">flight_takeoff</i>&nbsp;SS/SSD</a>*}
+{*                                        </li>*}
                                         <li>
                                             <a class="" data-toggle="tab" href="#tutorial_v2ray"><i class="icon icon-lg">flight_land</i>&nbsp;V2RAY</a>
                                         </li>
