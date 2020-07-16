@@ -181,7 +181,7 @@
                                 </nav>
                                 <div class="card-inner">
                                     <div class="tab-content">
-                                        <div class="tab-pane fade active" id="all_v2ray">
+                                        <div class="tab-pane fade active in" id="all_v2ray">
                                             <nav class="tab-nav margin-top-no">
                                                 <ul class="nav nav-list">
                                                     <li class="active">
